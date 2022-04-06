@@ -1,7 +1,7 @@
 # Projeto_de_software-p2
 Disciplina p2
 
-Funções que devem ser consideradas:
+Tópicos que devem ser considerados:
 
 1 - Criação de conta
 
